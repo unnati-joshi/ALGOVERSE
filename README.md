@@ -42,7 +42,7 @@ EyeTrack Access is a revolutionary browser-based system that enables hands-free 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/eyetrack-access.git
+git clone https://github.com/unnati-joshi/eyetrack-access.git
 cd eyetrack-access
 ```
 2. Install dependencies:
