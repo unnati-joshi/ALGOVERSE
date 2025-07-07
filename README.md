@@ -1,4 +1,4 @@
-# EyeTrack Access - Eye-Controlled Accessibility Interface
+# EyeCue - Eye-Controlled Accessibility Interface
 EyeTrack Access is a revolutionary browser-based system that enables hands-free digital interface control for people with disabilities. Using real-time eye tracking via webcam, this application allows users to interact with digital interfaces using only their eye movements.
 
 
@@ -43,7 +43,7 @@ EyeTrack Access is a revolutionary browser-based system that enables hands-free 
 1. Clone the repository:
 ```bash
 git clone https://github.com/unnati-joshi/ALGOVERSE.git
-cd eyetrack-access
+cd EYECUE
 ```
 2. Install dependencies:
 ```bash
